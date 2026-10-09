@@ -1,0 +1,17 @@
+# Python cache & environments
+__pycache__/
+*.py[cod]
+*$py.class
+citizenship_env/
+.venv/
+env/
+venv/
+
+# Environment / OS artifacts
+.DS_Store
+.vscode/
+.idea/
+
+# Temp & Audit files
+archive/
+*.xlsx
