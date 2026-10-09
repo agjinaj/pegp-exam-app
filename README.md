@@ -1,4 +1,4 @@
-# 🏛️ Hellenic Citizenship Exam Prep (Π.Ε.Γ.Π.)
+# Hellenic Citizenship Exam Prep (Π.Ε.Γ.Π.)
 
 A full-stack educational web application and data ingestion pipeline designed for candidates preparing for the **Certificate of Knowledge for Naturalization (P.E.G.P.)** examinations in Greece.
 
@@ -6,7 +6,7 @@ Built with **Python**, **Streamlit**, and **SQLite**, the project parses, audits
 
 ---
 
-## 🌟 Key Features
+## Key Features
 
 - **Official Exam Distribution (Mock Exam):** Simulates the exact structure of the real 20-question exam (6 History, 6 Political Institutions, 4 Geography, 4 Culture).
 - **Thematic Practice Mode:** Focus on specific subjects with customizable question limits.
@@ -17,7 +17,7 @@ Built with **Python**, **Streamlit**, and **SQLite**, the project parses, audits
 
 ---
 
-## 🏗️ Architecture & Data Pipeline
+## Architecture & Data Pipeline
 
 ```
 data/*.pdf ──▶ build_database.py ──▶ quiz.db (300 validated Qs)
@@ -35,7 +35,7 @@ data/*.pdf ──▶ build_database.py ──▶ quiz.db (300 validated Qs)
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ### 1. Clone & Set Up Environment
 ```bash
